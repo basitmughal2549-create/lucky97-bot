@@ -1,7 +1,0 @@
-requirements.txt
-python-telegram-bot>=20.0
-opencv-python
-easyocr
-numpy
-Pillow
-python-dotenv
